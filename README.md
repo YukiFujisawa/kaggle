@@ -1,1 +1,1 @@
-# kaggle_taitanic
+# kaggle
